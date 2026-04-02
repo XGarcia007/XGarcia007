@@ -1,16 +1,49 @@
-## Hi there 👋
 
-<!--
-**XGarcia007/XGarcia007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, me chamo Leonardo Garcia! 👋
+## Bem vindo ao meu perfil GitHub
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou apenas estudando
+- 🌱 Atualmente estou aprendendo Desenvolvimento de Sistemas
+- 👯 Estou procurando colaborar em projetos Front/Back
+- 🤔 Estou procurando ajuda com ...
+- 💬 Pergunte-me sobre ...
+- 📫 Como entrar em contato comigo: ...
+- 😄 Pronomes: ...
+- ⚡ Curiosidade: ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ferramentas e Tecnologias
+
+           
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" heigth="40" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" heigth="40" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" heigth="40" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" heigth="40" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" heigth="40" width="40" />           
+          
+          
+
+## Vou aprender
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" heigth="40" width="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" heigth="40" width="40" />
+          
+
+## Contatos:
+<div>
+<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<a href="mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/XGarcia007" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+</div>
+
+<br />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XGarcia007&theme=tokyonight" alt="Perfil GitHub" /></p>
+
+![Snake animation](https://github.com/XGarcia007/XGarcia007/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+
+          
+            
+          
+          
+          
+          
